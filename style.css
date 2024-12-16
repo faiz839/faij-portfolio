@@ -54,7 +54,7 @@ button{
     font-size: large;
 }
 .container{
-    background-color:white;
+    background-color:gray;
     height: 450px;
     width: 550px;
     border-radius: 18px;
